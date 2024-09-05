@@ -78,7 +78,7 @@ const Body: React.FC<BodyProps> = ({ initialMessages }) => {
     <div
       className="flex-1 overflow-y-auto"
       style={{
-        backgroundImage: "url('/images/bg1.jpeg')",
+        backgroundImage: "url('/images/bg.jpeg')",
         borderRadius: "16px",
       }}
     >

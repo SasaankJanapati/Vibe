@@ -66,13 +66,11 @@ const Header: React.FC<HeaderProps> = ({ conversation }) => {
           </div>
         </div>
         <div className="flex gap-3">
-          {conversation.isGroup && (
-            <HiPhone
-              size={28}
-              className="text-[#227B94] cursor-pointer hover:text-[#227B94] transition"
-              onClick={handleStartCall}
-            />
-          )}
+          <HiPhone
+            size={28}
+            className="text-[#227B94] cursor-pointer hover:text-[#227B94] transition"
+            onClick={handleStartCall}
+          />
           <HiEllipsisHorizontal
             size={32}
             onClick={() => setDrawerOpen(true)}
