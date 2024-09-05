@@ -14,7 +14,7 @@ const ChatBot = (props: Props) => {
     // Inject the Botpress Webchat configuration script
     const script2 = document.createElement("script");
     script2.src =
-      "https://mediafiles.botpress.cloud/ec12e8cf-c561-43ca-a8df-079d9a47053a/webchat/v2.1/config.js";
+      "https://mediafiles.botpress.cloud/30422fcc-ea66-4094-a5b7-16c029abb3f2/webchat/v2.1/config.js";
     script2.async = true;
     document.body.appendChild(script2);
 
