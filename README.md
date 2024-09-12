@@ -1,3 +1,7 @@
+Name: Janapati Venkata Lakshmana Sasaank
+University Name: IIT Tirupati
+Department Name: Computer Science and Engineering Department
+
 # Vibe - A Messaging Service Prototype Web App
 
 Vibe is a web-based chat application designed to connect users. It is a messaging service prototype featuring user authentication, real-time messaging, group chat, and optional features such as AI-powered chatbots and video/audio calls.
@@ -39,7 +43,6 @@ Vibe is a web-based chat application designed to connect users. It is a messagin
 - *Utilities*:
   - [Date-fns](https://date-fns.org/) - Date manipulation.
   - [CLSx](https://www.npmjs.com/package/clsx) - Utility for class names.
-  - [Sonner](https://www.npmjs.com/package/sonner) - Notification library.
 
 ### Backend
 
@@ -155,7 +158,7 @@ Vibe is a web-based chat application designed to connect users. It is a messagin
 
 ## System Design
 
-A comprehensive system design document is available in the [System Design](docs/SystemDesign.md). It includes architecture diagrams, component descriptions, and data flow.
+A comprehensive system design document is available in the [System Design](https://docs.google.com/document/d/1kNd00F3pPZye1WSiJSwrT2P4G6bUpl7EnPa-t0iflFg/edit?usp=sharing). It includes architecture diagrams, component descriptions, and data flow.
 
 ## Optional Features
 
@@ -167,7 +170,6 @@ Integrated ZEGOCLOUD UIKit for video and audio calling. Note that the integratio
 
 ## Deployment
 
-If deployed, the project can be accessed at [your-deployment-url.com](http://your-deployment-url.com). Deployment is managed on [AWS](https://aws.amazon.com/) or [Heroku](https://www.heroku.com/).
 
 ## Contributing
 
